@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CloudyNote</string>
+    <string name="title_activity_note_list">Note List</string>
+    <string name="title_activity_note">Note</string>
+    <string name="title_activity_about">About</string>
+
+    <string name="prompt_title">Title</string>
+    <string name="prompt_message">Message</string>
+
+    <string name="menu_title_edit">Edit</string>
+    <string name="menu_title_accept">Accept</string>
+    <string name="menu_title_cancel">Cancel</string>
+    <string name="menu_author">Author</string>
+
+    <string name="error_title_required">Title is required</string>
+
+    <string name="label_date_modification">Last edit: </string>
+
+    <string name="dialog_note_del_title">Delete note</string>
+    <string name="dialog_note_del_title_del_msg">Do you want to delete this note?</string>
+    <string name="dialog_note_del_cancel">Cancel</string>
+    <string name="dialog_note_del_accept">Delete</string>
+
+    <string name="dialog_changes_accept_title">Accept changes</string>
+    <string name="dialog_changes_accept_msg">Do you want to accept the changes?</string>
+    <string name="dialog_changes_accept_cancel">Cancel</string>
+    <string name="dialog_changes_accept_accept">Accept</string>
+
+    <string name="dialog_changes_reject_title">Reject changes</string>
+    <string name="dialog_changes_reject_msg">Do you want to reject the changes?</string>
+    <string name="dialog_changes_reject_cancel">Cancel</string>
+    <string name="dialog_changes_reject_accept">Reject</string>
+
+    <string name="author_about">Author: Jakub Pawluczuk</string>
+    <string name="author_mail">Mail: jakub.pawluczuk@gmail.com</string>
+
+
+</resources>
